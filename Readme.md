@@ -1,4 +1,4 @@
-# 🚀 SST-Architect: Autonomous Scaler Academy Clone Agent
+# SST-Architect: Autonomous Scaler Academy Clone Agent
 
 An intelligent CLI agent developed for the **Scaler School of Technology (SST)**. This tool utilizes a **ReAct (Reasoning and Acting) loop** to autonomously plan, generate, and launch a high-fidelity clone of the Scaler Academy landing page.
 
